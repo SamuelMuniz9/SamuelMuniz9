@@ -1,7 +1,7 @@
-## Hi there 👋
+## Olá 👋
 
 
-<h2 align="left">Olá, me chamo Samuel, estou começando na área</h2>
+
 
 ###
 
