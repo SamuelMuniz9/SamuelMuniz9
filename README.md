@@ -1,4 +1,5 @@
 ## Olá 👋
+##Me chamo Samuel Muniz, moro na região sudeste de São Paulo. Sou formado em Mecatrônica e estou terminando a faculdade de Analise e Desenvolvimento de Sistemas, entendo linguagens como Java, e python, quero crescer no mercado da progamação e evoluir cada vez mais.   
 
 
 
