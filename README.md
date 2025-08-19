@@ -1,7 +1,8 @@
 <h2 align="left">Olá, me chamo Samuel👋</h2>
 
   <br><br> 
-  Moro na região sudeste de São Paulo. Sou formado em Mecatrônica e estou terminando a faculdade de Analise e Desenvolvimento de Sistemas, entendo linguagens como Java, e python, quero crescer no mercado da progamação, na área de Back-end e evoluir cada vez mais.
+  Moro na região sudeste de São Paulo. Sou formado em Mecatrônica e estou terminando a faculdade de Analise e Desenvolvimento de Sistemas, e começando a faculdade de Engenharia de Software.
+  Portfólio  pequeno, em crescimento
   
   <br><br>
 
