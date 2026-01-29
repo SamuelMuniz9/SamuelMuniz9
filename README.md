@@ -108,7 +108,9 @@
 
 
 <div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=SamuelMuniz9.SamuelMuniz9&"  />
+  <br>
+  <p>"Programming is magic"<p>
+  <img src="https://komarev.com/ghpvc/?username=SamuelMUniz9&style=flat-square&color=blueviolet" alt="Profile views"/>
 </div>
 
 ###
