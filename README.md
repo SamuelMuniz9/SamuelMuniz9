@@ -71,9 +71,6 @@
   <img width="12" />
   <img src="https://img.shields.io/badge/SQLite-003B57?logo=sqlite&logoColor=white&style=for-the-badge" height="24" alt="sqlite logo"  />
   <img width="12" />
-  <img src="https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white&style=for-the-badge" height="24" alt="docker logo"  />
-  <img width="12" />
-  <img src="https://img.shields.io/badge/Amazon AWS-232F3E?logo=amazonwebservices&logoColor=FF9900&style=for-the-badge" height="24" alt="amazonwebservices logo"  />
 </div>
 
 ###
