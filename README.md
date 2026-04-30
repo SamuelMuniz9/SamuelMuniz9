@@ -2,7 +2,7 @@
 
 ###
 
-<h3 align="center">Software Engineer | Frontend Fullstack Developer</h3>
+<h3 align="center">Junior Developer | · Embedded Systems · Automation | Mechatronics</h3>
 
 ###
 
