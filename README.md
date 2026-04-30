@@ -26,8 +26,6 @@ Building efficient web solutions and exploring automation through Python and AI.
 ###
 
 <div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="24" alt="java logo"  />
-  <img width="12" />
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black&style=for-the-badge" height="24" alt="javascript logo"  />
   <img width="12" />
   <img src="https://img.shields.io/badge/Tailwind CSS-06B6D4?logo=tailwindcss&logoColor=black&style=for-the-badge" height="24" alt="tailwindcss logo"  />
@@ -44,8 +42,7 @@ Building efficient web solutions and exploring automation through Python and AI.
 ###
 
 <div align="center">
-  <img src="https://img.shields.io/badge/Spring-6DB33F?logo=spring&logoColor=black&style=for-the-badge" height="24" alt="spring logo"  />
-  <img width="12" />
+
   <img src="https://img.shields.io/badge/Angular-DD0031?logo=angular&logoColor=white&style=for-the-badge" height="24" alt="angularjs logo"  />
   <img width="12" />
   <img src="https://img.shields.io/badge/Express-000000?logo=express&logoColor=white&style=for-the-badge" height="24" alt="express logo"  />
