@@ -43,8 +43,7 @@ Building efficient web solutions and exploring automation through Python and AI.
 <div align="center">
 
   <img src="https://img.shields.io/badge/Angular-DD0031?logo=angular&logoColor=white&style=for-the-badge" height="24" alt="angularjs logo"  />
-  <img width="12" />
-  <img src="https://img.shields.io/badge/Express-000000?logo=express&logoColor=white&style=for-the-badge" height="24" alt="express logo"  />
+
 </div>
 
 ###
@@ -58,8 +57,6 @@ Building efficient web solutions and exploring automation through Python and AI.
   <img width="12" />
   <img src="https://img.shields.io/badge/Bootstrap-7952B3?logo=bootstrap&logoColor=white&style=for-the-badge" height="24" alt="bootstrap logo"  />
   <img width="12" />
-  <img src="https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black&style=for-the-badge" height="24" alt="react logo"  />
-</div>
 
 ###
 
