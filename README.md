@@ -6,7 +6,14 @@
 
 ###
 
-<h5 align="center">Specialized in scalable and high-performance systems using:<br>•  Java, Spring, Angular <br>• Clean Architecture, SOLID principles & CI/CD pipelines<br>• Cloud computing (Azure & AWS) and containerization with Docker</h5>
+<h5 align="center">Junior Web Developer | Full Stack & AI Enthusiast
+
+Building efficient web solutions and exploring automation through Python and AI.
+
+• Frontend: HTML5, CSS3, JavaScript & Bootstrap
+• Backend & Scripting: Python (Data/Automation) & Java (Learning/Base)
+• Data & IA: Prompt Engineering, Power BI & SQL
+• Tools: Git, GitHub & WordPress <br>• Clean Architecture, SOLID principles & CI/CD pipelines<br>• Cloud computing (AWS) and containerization with Docke</h5>
 
 ###
 
