@@ -13,7 +13,7 @@ Building efficient web solutions and exploring automation through Python and AI.
 • Frontend: HTML5, CSS3, JavaScript & Bootstrap<br>
 • Backend & Scripting: Python (Data/Automation) & Java (Learning/Base)<br>
 • Data & IA: Prompt Engineering, Power BI & SQL<br>
-• Tools: Git, GitHub & WordPress <br>• Clean Architecture, SOLID principles & CI/CD pipelines<br>•</h5>
+• Tools: Git, GitHub & WordPress <br>• Clean Architecture, SOLID principles & CI/CD pipelines<br></h5>
 
 ###
 
